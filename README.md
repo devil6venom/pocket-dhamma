@@ -5,11 +5,6 @@
 <br/>
 <img src="fastlane/metadata/android/en-US/images/icon.png" alt="logo" width="256">
 <br/>
-<br/>
-<a href="https://apt.izzysoft.de/packages/com.s4nj1th.pocket_dhamma" target="_blank">
-<img src="https://img.shields.io/endpoint?url=https://apt.izzysoft.de/fdroid/api/v1/shield/com.s4nj1th.pocket_dhamma&label=IzzyOnDroid" alt="IzzyOnDroid badge">
-</a>
-<br/>
 </div>
 
 ## Features
@@ -53,10 +48,16 @@
 
 ## Installation
 
-You can install PocketDhamma by downloading the latest APK from the [Releases](https://github.com/s4nj1th/pocket-dhamma/releases) section, or by getting it via the [IzzyOnDroid repository](https://apt.izzysoft.de/packages/com.s4nj1th.pocket_dhamma) on F-Droid.
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="80">](https://f-droid.org/packages/com.s4nj1th.pocket_dhamma/)
+[<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png"
+     alt="Get it on IzzyOnDroid"
+     height="80">](https://apt.izzysoft.de/packages/com.s4nj1th.pocket_dhamma)
+
+Or install PocketDhamma by downloading the latest APK from the [Releases Section](https://github.com/s4nj1th/pocket-dhamma/releases/latest).
 
 Soon to be published on the Google Play Store.
-
 
 ## License
 
